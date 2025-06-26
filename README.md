@@ -35,7 +35,7 @@
 
 ## 🔗 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/halime-p-a93326162/)  
-📫 **Email:** phlvnhalime@gmail.com
+📫 **Email:** phlvnhalime@outlook.com
 
 ---
 
