@@ -11,20 +11,20 @@
 ## 🧠 What I Know and Use
 - 💻 Languages: C (strong), Shell, learning C++
 - 🛠️ Tools: Vim, LLDB, Git, MacOS Terminal (iTerm2)
-- 🧩 Projects: `get_next_line`, `push_swap`, `so_long`, `minishell`, virtual machines
+- 🧩 Projects: `C++`, `Philosophers`, `Cub3D`, `minishell`, virtual machines
 - 🔐 Interests: Embedded systems, memory management, debugging, system programming
 
 ---
 
 ## 🔥 Highlights
+- 🧬 **C++**
+  → Lerning process to understand each situation for C++.
 - 🐚 **Minishell**  
   → A fully working shell written in C — handled parsing, process management, and signals with clean code structure  
-- 📂 **get_next_line**  
-  → Reads lines from a file descriptor with precision, including buffer handling and memory safety  
-- 📊 **push_swap**  
-  → Built an optimized sorting algorithm using two stacks and instruction minimization  
-- 🎮 **so_long**  
-  → Designed a C game using MiniLibX where two characters explore a spaceship — custom assets and logic included  
+- 🎮 **Cub3D**  
+  → Built a 3D maze explorer using raycasting and DDA algorithm in C — pseudo-3D rendering with MiniLibX graphics library
+- 💿 **Philosophers** 
+  → Multi-threaded simulation of the dining philosophers problem — mastering thread synchronization and race condition prevention
 
 ---
 
