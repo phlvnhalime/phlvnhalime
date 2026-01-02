@@ -1,49 +1,69 @@
-# phlvnhalime
-# 👋 Hi there, I'm Halime Pehlivan.
+# 👋 Hello, I'm Halime Pehlivan
 
-🎯 I'm a mechanical engineer turned software developer, passionate about learning code and how systems work under the hood.  
-🌍 Based in Heilbronn, Germany | Originally from Turkiye 🇹🇷  
-📚 Student at [42 Heilbronn](https://www.42heilbronn.de/), focused on low-level programming and system design  
-🚀 I’ve come a long way in C — now, I’m setting my sights on mastering C++
+<p align="left">
+  <a href="https://halime-pehlivan-porfolio.vercel.app/#/">
+    <img src="https://img.shields.io/badge/Check_My-Portfolio-purple?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/halime-p-a93326162/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
----
-
-## 🧠 What I Know and Use
-- 💻 Languages: C (strong), Shell, learning C++
-- 🛠️ Tools: Vim, LLDB, Git, MacOS Terminal (iTerm2)
-- 🧩 Projects: `C++`, `Philosophers`, `Cub3D`, `minishell`, virtual machines
-- 🔐 Interests: Embedded systems, memory management, debugging, system programming
+### 🚀 Mechanical Engineer ⚙️ turned Software Developer 💻 
+Based in **Heilbronn, Germany**, I am a student at **42 Heilbronn** dedicated to mastering low-level programming and building scalable systems.
 
 ---
 
-## 🔥 Highlights
-- 🧬 **C++**
-  → Lerning process to understand each situation for C++.
-- 🐚 **Minishell**  
-  → A fully working shell written in C — handled parsing, process management, and signals with clean code structure  
-- 🎮 **Cub3D**  
-  → Built a 3D maze explorer using raycasting and DDA algorithm in C — pseudo-3D rendering with MiniLibX graphics library
-- 💿 **Philosophers** 
-  → Multi-threaded simulation of the dining philosophers problem — mastering thread synchronization and race condition prevention
+## 🛠️ Skills & Toolbox
+
+| Category | Technologies |
+| :--- | :--- |
+| **Low-Level & Systems** | `C`, `C++`, `Shell (Bash/Zsh)`, `Makefile`, `Java` |
+| **Frontend & Web** | `Vue.js`, `HTML5`, `CSS3`, `JavaScript` |
+| **Tools & DevOps** | `Git`, `Docker`, `Vim`, `Linux`, `LLDB`, `Valgrind` |
 
 ---
 
-## 📈 GitHub Stats
-![Halime's GitHub stats](https://github-readme-stats.vercel.app/api?username=phlvnhalime&show_icons=true&theme=dracula)
+## 🏗️ Technical Highlights (42 Projects)
+
+### 🌐 [Webserv](https://github.com/phlvnhalime/webserv) (Current Focus)
+*An HTTP/1.1 server written in C++ from scratch.*
+- **Tech:** C++98, Sockets, I/O Multiplexing (`select`/`poll`).
+- **Challenge:** Implementing a non-blocking server that can handle multiple clients and parse Nginx-like configuration files.
+
+### 🐚 [Minishell](https://github.com/phlvnhalime/minishell)
+*A fully functional Bash-like shell.*
+- **Learning:** Process management (`fork`, `execve`), pipes, and signal handling.
+- **Key Feature:** Built a robust lexical analyzer and parser to handle complex command strings.
+
+### 🎮 [Cub3D](https://github.com/phlvnhalime/cub3d)
+*3D Raycasting Engine inspired by Wolfenstein 3D.*
+- **Tech:** C, MiniLibX, DDA Algorithm.
+- **Focus:** Graphic rendering, memory management, and performance optimization in C.
+
+### 🍝 [Philosophers](https://github.com/phlvnhalime/philosophers)
+*Dining Philosophers problem simulation.*
+- **Focus:** Multi-threading and synchronization. Mastering `mutexes` and `semaphores` to prevent deadlocks.
 
 ---
 
-## 🔗 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/halime-p-a93326162/)  
-📫 **Email:** phlvnhalime@outlook.com
+## 📊 My GitHub Journey
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=phlvnhalime&show_icons=true&theme=dracula&hide_border=true" alt="Halime's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phlvnhalime&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-## ✨ Fun Facts
-- I speak English and Turkish 🇹🇷  
-- I love explaining complex things in simple terms  
-- I’m building both code and muscle — fitness is part of the routine 💪  
+## ✨ Beyond the Code
+- **Language Stack:** 🇹🇷 Turkish (Native) | 🇬🇧 English (Fluent) | 🇩🇪 German (Learning)
+- **Fitness:** Building both code and muscle. Discipline is my middle name. 💪
+- **Simple Terms:** I love explaining complex technical concepts in simple, understandable ways.
 
 ---
 
-_“Everything is possible with curiosity and persistence.”_
+## 📫 Let's Connect
+- **Email:** [phlvnhalime@outlook.com](mailto:phlvnhalime@outlook.com)
+- **Portfolio:** [halime-pehlivan-porfolio.vercel.app](https://halime-pehlivan-porfolio.vercel.app/#/)
+
+*"Everything is possible with curiosity and persistence."*
